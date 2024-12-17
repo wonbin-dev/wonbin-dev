@@ -1,6 +1,6 @@
 <header>
-  <p style="font-size: 1.8rem; font-weight: bold; margin: 0;">Welcome, I'm <code>Jang Wonbin</code> 👋</p>
-  <p style="margin: 0;">Student | Full-Stack Web Developer</p>
+  <h1 style="font-size: 1.8rem; font-weight: bold;">Welcome, I'm <code>Jang Wonbin</code> 👋</h1>
+  <p>Student | Full-Stack Web Developer</p>
   <div style="margin-top: 15px;">
     <a href="https://github.com/wonbin-dev">
       <picture>
@@ -19,8 +19,8 @@
   </div>
 </header>
 
-<div style="text-align: right; margin-top: 3rem;">
-  <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">My Skills Are</p>
+<div align="right" style="margin-top: 3rem;">
+  <h2 style="font-size: 1.5rem; font-weight: bold;">My Skills Are</h2>
   <p>
     <img src="https://img.shields.io/badge/typescript-a?style=for-the-badge&logo=typescript&logoColor=ffffff&color=007acc">
     <img src="https://img.shields.io/badge/javascript-a?style=for-the-badge&logo=javascript&logoColor=323330&color=F0DB4F">
@@ -33,8 +33,8 @@
   </p>
 </div>
 
-<div style="text-align: left; margin-top: 6rem;">
-  <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">I'm Learning</p>
+<div align="left" style="margin-top: 6rem;">
+  <h2 style="font-size: 1.5rem; font-weight: bold;">I'm Learning</h2>
   <p>
     <img src="https://img.shields.io/badge/c%23-a?style=for-the-badge&logo=c&logoColor=ffffff&color=685ae6" />
     <img src="https://img.shields.io/badge/Kotlin-a?style=for-the-badge&logo=kotlin&logoColor=ffffff&color=f3750c">
@@ -43,19 +43,19 @@
   </p>
 </div>
 
-<div style="text-align: right; margin-top: 6rem;">
-  <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">I'm Interested in</p>
+<div align="right" style="margin-top: 6rem;">
+  <h2 style="font-size: 1.5rem; font-weight: bold;">I'm Interested in</h2>
   <p>
-    <span style="margin-right:8px;"><code>SVS / TTS</code></span>
-    <span style="margin-right:8px;"><code>Web Develop</code></span>
-    <span style="margin-right:8px;"><code>Generative AI</code></span>
-    <span><code>Hacking</code></span>
+    <code style="margin-right: 8px;">SVS / TTS</code>
+    <code style="margin-right: 8px;">Web Develop</code>
+    <code style="margin-right: 8px;">Generative AI</code>
+    <code>Hacking</code>
   </p>
 </div>
 
-<div style="width: 100%; border: 1px solid; opacity: 0.2; margin-top: 6rem; margin-bottom: 3rem;"></div>
+<hr style="width: 100%; opacity: 0.2; margin-top: 6rem; margin-bottom: 3rem;">
 
-<div style="text-align: center;">
-  <p style="font-size: 1.5rem; font-weight: bold; margin: 0;">My Repository</p>
+<div align="center">
+  <h2 style="font-size: 1.5rem; font-weight: bold;">My Repository</h2>
   <p>Not Yet.</p>
 </div>
