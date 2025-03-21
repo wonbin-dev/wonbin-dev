@@ -43,9 +43,11 @@
   <h2 >I'm Learning</h2>
   <p>
     <img src="https://img.shields.io/badge/c%23-a?style=for-the-badge&logo=c&logoColor=ffffff&color=685ae6" />
+    <img src="https://img.shields.io/badge/C%2B%2B-a?style=for-the-badge&logo=cplusplus&logoColor=ffffff&color=685ae6">
     <img src="https://img.shields.io/badge/Kotlin-a?style=for-the-badge&logo=kotlin&logoColor=ffffff&color=f3750c">
     <img src="https://img.shields.io/badge/Spring%20Boot-a?style=for-the-badge&logo=spring&logoColor=ffffff&color=6DB33F">
     <img src="https://img.shields.io/badge/Arch%20Linux-a?style=for-the-badge&logo=archlinux&logoColor=ffffff&color=1793D1">
+    <img src="https://img.shields.io/badge/unity-a?style=for-the-badge&logo=unity&logoColor=ffffff&color=000000">
   </p>
 </div>
 
