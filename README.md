@@ -11,7 +11,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/wxn.bin._/">
+  <a href="https://www.instagram.com/w.bin1208/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/instagram-white.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/instagram-black.svg">
@@ -30,10 +30,10 @@
     <img src="https://img.shields.io/badge/vue-a?style=for-the-badge&logo=vuedotjs&logoColor=ffffff&color=41B883">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <br/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/express-a?style=for-the-badge&logo=express&logoColor=000000&color=F0DB4F">
-    <img src="https://img.shields.io/badge/react-a?style=for-the-badge&logo=react&logoColor=ffffff&color=61DBFB">
     <img src="https://img.shields.io/badge/svelte-a?style=for-the-badge&logo=svelte&logoColor=ffffff&color=aa1e1e">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/PyTorch-3670A0?style=for-the-badge&logo=Pytorch&logoColor=ffffff&color=ee4c2c"/>
+    <img src="https://img.shields.io/badge/c%23-a?style=for-the-badge&logo=c&logoColor=ffffff&color=685ae6" />
   </p>
 </div>
 
@@ -42,12 +42,7 @@
 <div align="left">
   <h2 >I'm Learning</h2>
   <p>
-    <img src="https://img.shields.io/badge/c%23-a?style=for-the-badge&logo=c&logoColor=ffffff&color=685ae6" />
     <img src="https://img.shields.io/badge/C%2B%2B-a?style=for-the-badge&logo=cplusplus&logoColor=ffffff&color=685ae6">
-    <img src="https://img.shields.io/badge/Kotlin-a?style=for-the-badge&logo=kotlin&logoColor=ffffff&color=f3750c">
-    <img src="https://img.shields.io/badge/Spring%20Boot-a?style=for-the-badge&logo=spring&logoColor=ffffff&color=6DB33F">
-    <img src="https://img.shields.io/badge/Arch%20Linux-a?style=for-the-badge&logo=archlinux&logoColor=ffffff&color=1793D1">
-    <img src="https://img.shields.io/badge/unity-a?style=for-the-badge&logo=unity&logoColor=ffffff&color=000000">
   </p>
 </div>
 
